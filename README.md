@@ -12,4 +12,5 @@ Raspberry Pi Zero W (for example: https://www.adafruit.com/product/3708)
 PiTFT Plus Assembled 320x240 2.8" TFT + Resistive Touchscreen (https://www.adafruit.com/product/2298)
 
 **OS**
+
 Raspbian
