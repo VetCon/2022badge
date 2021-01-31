@@ -16,4 +16,4 @@ DS3231 High Precision RTC Real Time Clock (https://www.amazon.com/gp/product/B01
 
 **OS:**
 
-Raspbian
+Raspbian lite
