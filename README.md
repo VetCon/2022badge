@@ -22,4 +22,4 @@ Raspbian lite
 
 **Language:**
 
-Go for right now
+Your choice of compiled language that uses ncurses to draw the badges
